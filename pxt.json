@@ -1,0 +1,61 @@
+{
+    "name": "Katandra: Hollow Heist",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "arcade-premium-life": "github:jwunderl/arcade-premium-life#v0.2.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "arcade-overworld": "github:riknoll/arcade-overworld#v0.0.5",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "animation": "*",
+        "pxt-rtttl": "github:pelikhan/pxt-rtttl#v0.0.12"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.59",
+        "tag": "v2.0.59",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/9ac32db04cae4ac1aca1d3d49e26192f6d6fac23",
+        "target": "4.0.5",
+        "pxt": "11.3.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#CCFFF9",
+        "#E7FFEE",
+        "#EDA031",
+        "#272946",
+        "#66B0C7",
+        "#34419D",
+        "#FD811C",
+        "#635C6D",
+        "#FFFFD1",
+        "#A07CFF",
+        "#F3C0CE",
+        "#979BC7",
+        "#FAE6CD",
+        "#EF9770",
+        "#0C002E"
+    ]
+}
